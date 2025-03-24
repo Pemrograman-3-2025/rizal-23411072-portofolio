@@ -1,0 +1,14 @@
+body {
+  min-height: 2000px;
+}
+.jumbotron {
+  padding-top: 2rm;
+  background-color: #e2edff;
+}
+#skill {
+  background-color: #e2edff;
+}
+.footer {
+  padding: 2rem;
+  
+}
